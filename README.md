@@ -2,8 +2,6 @@
 
 <!--START_SECTION:stats-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeName-maru&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeName-maru&layout=compact&theme=tokyonight)
 
 ## 🚀 Featured Projects
 
